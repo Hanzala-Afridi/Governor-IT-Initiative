@@ -21,3 +21,34 @@ This project highlights how coding can transform even simple ideas into somethin
 
 #Python #MadLibs #CodingJourney #Programming #LinkedInLearning
 
+
+
+Project 2: Guess the Number Game Python Project (computer)
+
+
+🎮 Leveling Up with Python: Guess the Number Game! 🐍
+
+I'm thrilled to share my latest Python project: Guess the Number Game (Computer Edition)! 🚀
+
+In this project, I implemented an interactive and exciting game where the computer picks a number, and the player tries to guess it. Here's what makes this project special:
+
+🔢 Random Number Generation using Python's random module
+🔄 User Interaction with dynamic input and feedback
+⚡ Logic and Conditions for tracking and guiding guesses
+🎯 Replayability with a feature to let players try again
+
+This project was a fantastic learning journey that helped me enhance my skills in:
+
+Algorithm design
+Conditional statements
+Loops and user input handling
+💡 Why does it matter? Games like this aren't just fun—they’re a great way to strengthen problem-solving abilities and practice the core concepts of programming.
+
+✨ What’s Next? I’m excited to work on more engaging Python projects, combining creativity and code to build meaningful experiences.
+
+👥 I’d love to hear your feedback or connect with others working on exciting projects. Let’s inspire and learn from each other!
+
+#Python #GuessTheNumber #CodingJourney #ProgrammingSkills #LinkedInLearning
+
+
+
